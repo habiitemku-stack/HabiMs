@@ -1,5 +1,5 @@
 -- ======================================================
---   HabiMs - AUTO MARSHMALLOW v9 (Fixed)
+--   HabiMs - AUTO MARSHMALLOW (Fixed)
 -- ======================================================
 
 local Players      = game:GetService("Players")
